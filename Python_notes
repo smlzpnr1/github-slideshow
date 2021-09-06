@@ -1,0 +1,30 @@
+bir elemanlı tuple oluşturmak için virgül kullanmayı unutma!!
+exp: t = ("ayşe",) 
+
+
+key değeri olarak list koyamayız fakat string integers ve tuples kullanabiliriz(sabit yapılar)
+The values in dictionary items can be of any data type:
+
+
+list'in özellikleri : 
+  -kapsayıcıdır
+  -sıralıdır
+  -değiştirilebilir
+
+tuples'ın özellikleri :
+  -kapsayıcıdır
+  -sıralıdır
+  -değiştirilemez
+
+dictionary özellikleri :
+  - sözlükler indexleri ile birlikte saklanır ( key,value ) 
+  - kapsayıcıdır
+  - sırasızdır ( versiyona göre değişiyor)
+  - değiştirilebilir
+  - index işlemleri yapılamaz
+
+sets'in özellikleri :
+- sırasızdırlar
+- değerleri tekrar edemez
+- değiştirilebilirler
+- farklı tipleri barındırabilirler
